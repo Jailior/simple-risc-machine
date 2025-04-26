@@ -1,0 +1,15 @@
+Ali (Partner #1):
+    - Stage 1 program Counter
+    - Added RAM and wire connections for it
+    - Compiled assembly for testing
+    - Worked data address register and connection too 
+    - Worked on statemachine to support new operations LDR, STR and HALT
+
+
+Aarav (Partner #2):
+    - Worked on modifying stage machine in Stage #2 to add support for LDR and STR instructions
+    - Edited state machine to add support for HALT stage for end of program
+    - Worked on test benches for stage 2 and 3 
+#    - Worked on MappedIO for Stage 3 to be able to interact with SW and LEDR
+#    
+We both debugged
